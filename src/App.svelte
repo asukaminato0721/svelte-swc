@@ -2,7 +2,7 @@
 </script>
 
 <main>
-  <p>A Template with swc</p>
+  <p>A Svelte template with swc</p>
 </main>
 
 <style>
